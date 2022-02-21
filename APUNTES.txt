@@ -1,0 +1,9 @@
+PWA
+Progessive Web Application
+Simulacion de aplicaciones nativa
+Se debe desarrollar con el efoque Mobile-First
+
+Tiene 3 requisitos:
+1. Correr bajo protocolo seguro Https
+2. Contar con un service Worker
+3. Tener un manifest.json que contiene las especificaciones del App PWA
